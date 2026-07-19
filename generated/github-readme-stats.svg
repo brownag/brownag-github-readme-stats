@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Andrew Gene Brown's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 234, Total Commits  (last year) : 1028, Total PRs: 593, Total Issues: 393, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 234, Total Commits  (last year) : 1025, Total PRs: 593, Total Issues: 393, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 18.2654254315676;
+        stroke-dashoffset: 18.27261715672864;
       }
     }
   
